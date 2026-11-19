@@ -1,0 +1,1 @@
+candidate_id,task,parent_id,commit_sha,generated_utc,method,source_licenses,compiler_version,metric_version,verified,verification_mode,verification_salts,qubits,toffolis,t_gates,task_cost,reference_cost,improvement_ratio,wall_seconds,peak_ram_mb,archive_sha256,notes
