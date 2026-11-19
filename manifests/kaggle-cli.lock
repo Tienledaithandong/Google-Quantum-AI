@@ -31,3 +31,6 @@ tqdm==4.67.3
 traitlets==5.14.3
 urllib3==2.6.3
 webencodings==0.5.1
+
+# Ubuntu 24.04 Python 3.12 conditional dependency (upstream lock uses 3.13).
+typing-extensions==4.15.0 ; python_version < "3.13"
